@@ -1,0 +1,12 @@
+C:\Users\宮澤 郷介\source\repos\SoccorGame\SoccorGame\bin\Debug\SoccorGame.exe.config
+C:\Users\宮澤 郷介\source\repos\SoccorGame\SoccorGame\bin\Debug\SoccorGame.exe
+C:\Users\宮澤 郷介\source\repos\SoccorGame\SoccorGame\bin\Debug\SoccorGame.pdb
+C:\Users\宮澤 郷介\source\repos\SoccorGame\SoccorGame\bin\Debug\SoccorGame.xml
+C:\Users\宮澤 郷介\source\repos\SoccorGame\SoccorGame\obj\Debug\SoccorGame.vbprojAssemblyReference.cache
+C:\Users\宮澤 郷介\source\repos\SoccorGame\SoccorGame\obj\Debug\SoccorGame.Form1.resources
+C:\Users\宮澤 郷介\source\repos\SoccorGame\SoccorGame\obj\Debug\SoccorGame.Resources.resources
+C:\Users\宮澤 郷介\source\repos\SoccorGame\SoccorGame\obj\Debug\SoccorGame.vbproj.GenerateResource.cache
+C:\Users\宮澤 郷介\source\repos\SoccorGame\SoccorGame\obj\Debug\SoccorGame.vbproj.CoreCompileInputs.cache
+C:\Users\宮澤 郷介\source\repos\SoccorGame\SoccorGame\obj\Debug\SoccorGame.exe
+C:\Users\宮澤 郷介\source\repos\SoccorGame\SoccorGame\obj\Debug\SoccorGame.xml
+C:\Users\宮澤 郷介\source\repos\SoccorGame\SoccorGame\obj\Debug\SoccorGame.pdb

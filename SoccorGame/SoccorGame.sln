@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "SoccorGame", "SoccorGame\SoccorGame.vbproj", "{59605DAA-F8B6-4659-A6A6-E560DC6EFDAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59605DAA-F8B6-4659-A6A6-E560DC6EFDAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59605DAA-F8B6-4659-A6A6-E560DC6EFDAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59605DAA-F8B6-4659-A6A6-E560DC6EFDAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59605DAA-F8B6-4659-A6A6-E560DC6EFDAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D1136AE3-AF68-4253-A291-17A3E60DFA2F}
+	EndGlobalSection
+EndGlobal
