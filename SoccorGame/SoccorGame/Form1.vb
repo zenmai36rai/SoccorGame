@@ -96,7 +96,7 @@
     Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
         bmp = New Bitmap(PictureBox1.Width, PictureBox1.Height)
         gnd = New Bitmap("..\..\Ground.png")
-        sp1 = New Bitmap("..\..\SoccorPlayer1.png")
+        sp1 = New Bitmap("..\..\SoccorPlayerNara.png")
         sp2 = New Bitmap("..\..\SoccorPlayer2.png")
         bal = New Bitmap("..\..\Ball.png")
         Team(0) = New Player(0, 150, 100)
